@@ -6,4 +6,4 @@
 - **Linkedin** : https://www.linkedin.com/in/karan-shingde-75a062217/
 - **Gmail** : karanshingde@gmail.com 
 
-# My Internship Offer ✉:
+# Thank You!
