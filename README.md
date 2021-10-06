@@ -1,5 +1,7 @@
 # TSF-Projects-Oct-2021 ✨🚀
-## This GitHub repository contains Projects from my Data Scientist and Business Analyst internship at The Sparks Foundation : Graduate Rotational Internship Program - October 2021
+## Hey!
+##   I am Karan Shingde a **Data Science and Business Analyst** intern at The Sparks Foundation Oct 2021.
+
 
 # TOOLS :
 - Python
@@ -17,5 +19,7 @@
 - **Twitter** : https://twitter.com/KuchBhiKaran
 - **Linkedin** : https://www.linkedin.com/in/karan-shingde-75a062217/
 - **Gmail** : karanshingde@gmail.com 
+
+### All suggestions and corrections are welcome!
 
 # Thank You!
