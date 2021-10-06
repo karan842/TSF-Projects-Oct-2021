@@ -1,6 +1,5 @@
 # TSF-Projects-Oct-2021 ✨🚀
-## Hey!
-##   I am Karan Shingde a **Data Science and Business Analyst** intern at The Sparks Foundation Oct 2021.
+## Hey! I am Karan Shingde a **Data Science and Business Analyst** intern at The Sparks Foundation Oct 2021. 
 
 
 # TOOLS :
